@@ -1,0 +1,36 @@
+#main{
+  height: 99vh;
+  width: 99vw;
+  border: 1px solid black ;
+}
+#formDiv{
+  height:10% ;
+  width:30%;
+  margin-left: 35%;
+}
+
+#listDiv{
+  height: auto;
+  width: 20%;
+  margin-left: 35%;
+}
+
+
+
+#findDiv{
+  height: 10%;
+  width: 30%;
+  margin-left: 35%;
+  position: sticky;
+  margin-top:500px ;
+}
+
+.input{
+  border-radius:5px;
+}
+
+.btn{
+  border-radius:5px;
+  background-color: rgb(68, 68, 171);
+  color: white;
+}
