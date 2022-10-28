@@ -2,11 +2,13 @@ import React from "react";
 
 const ListItem=()=>{
     return(
-        <ol>
+        <div id='listitem'>
+            <ol>
             <li>
                 their is the list of relationship
             </li>
         </ol>
+        </div>
     )
 }
 
